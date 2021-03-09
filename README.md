@@ -13,11 +13,4 @@ Notice:
           #(delay_to_1,delay_to_0).
           
 **************************************************************************************************************************************************	
-                                        
-Example for more detailes:
 
-first I provide a system verilog code that show below adn save it in *.txt:
-#00 100
-#21 001
-#31 101
-#19 010
