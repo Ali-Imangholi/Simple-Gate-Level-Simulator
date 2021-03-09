@@ -100,3 +100,4 @@ outputs resault: l1
 current_time: 101    nand:    input1: l1    input2: l1    output: l0
 outputs resault: l0
 ***********************************************************************
+ 
