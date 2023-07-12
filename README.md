@@ -1,4 +1,4 @@
-# gate-level-simulation-in-cpp
+# Simple Gate-Level Simulator
 gate level simulation in c++ ,  give system verilog code (.SV) and simulate it in c++
 
 For run programe corectly:
